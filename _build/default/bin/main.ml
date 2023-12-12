@@ -1,6 +1,16 @@
 open Opium
 
-let index_handler _request = Response.of_plain_text "Hello world!" |> Lwt.return
+let name_page _name =
+  let open Tyxml.Html in
+  html (head (title (txt "Title")) []) (body [])
+;;
+
+let index_handler _req =
+  name_page "user"
+  |> name_page
+  |> Response.of_html
+  |> Lwt.return
+;;
 
 let name_handler req =
   let name = Router.param req "name" in
