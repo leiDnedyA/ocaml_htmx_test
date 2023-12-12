@@ -1,0 +1,22 @@
+opam-version: "2.0"
+added: [
+  "doc/lwt_ppx" {"D"}
+  "doc/lwt_ppx/CHANGES" {"F:S44595T1702320541.93"}
+  "doc/lwt_ppx/LICENSE.md" {"F:S1083T1702320541.93"}
+  "doc/lwt_ppx/README.md" {"F:S7369T1702320541.93"}
+  "lib/lwt_ppx" {"D"}
+  "lib/lwt_ppx/META" {"F:S583T1702320541.91"}
+  "lib/lwt_ppx/dune-package" {"F:S828T1702320541.91"}
+  "lib/lwt_ppx/opam" {"F:S594T1702320541.91"}
+  "lib/lwt_ppx/ppx.exe" {"F:S19472360T1702320541.93"}
+  "lib/lwt_ppx/ppx_lwt.a" {"F:S74870T1702320541.91"}
+  "lib/lwt_ppx/ppx_lwt.cma" {"F:S140991T1702320541.91"}
+  "lib/lwt_ppx/ppx_lwt.cmi" {"F:S19341T1702320541.91"}
+  "lib/lwt_ppx/ppx_lwt.cmt" {"F:S237451T1702320541.91"}
+  "lib/lwt_ppx/ppx_lwt.cmti" {"F:S92248T1702320541.91"}
+  "lib/lwt_ppx/ppx_lwt.cmx" {"F:S6311T1702320541.91"}
+  "lib/lwt_ppx/ppx_lwt.cmxa" {"F:S4161T1702320541.91"}
+  "lib/lwt_ppx/ppx_lwt.cmxs" {"F:S88096T1702320541.93"}
+  "lib/lwt_ppx/ppx_lwt.ml" {"F:S11272T1702320541.91"}
+  "lib/lwt_ppx/ppx_lwt.mli" {"F:S2503T1702320541.91"}
+]

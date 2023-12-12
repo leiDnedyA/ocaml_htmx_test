@@ -1,0 +1,25 @@
+opam-version: "2.0"
+added: [
+  "doc/multipart-form-data" {"D"}
+  "doc/multipart-form-data/CHANGES.md" {"F:S428T1702320542.87"}
+  "doc/multipart-form-data/LICENSE.md" {"F:S1294T1702320542.87"}
+  "doc/multipart-form-data/README.md" {"F:S744T1702320542.87"}
+  "lib/multipart-form-data" {"D"}
+  "lib/multipart-form-data/META" {"F:S215T1702320542.87"}
+  "lib/multipart-form-data/dune-package" {"F:S1022T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.a" {"F:S90162T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.cma"
+    {"F:S100019T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.cmi" {"F:S9286T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.cmt"
+    {"F:S222236T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.cmti"
+    {"F:S26874T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.cmx" {"F:S7348T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.cmxa" {"F:S951T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.cmxs"
+    {"F:S91832T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.ml" {"F:S10715T1702320542.87"}
+  "lib/multipart-form-data/multipart_form_data.mli" {"F:S890T1702320542.87"}
+  "lib/multipart-form-data/opam" {"F:S856T1702320542.87"}
+]

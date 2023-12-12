@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_htmx_test)
+ (name main)
+ (libraries ocaml_htmx_test opium))

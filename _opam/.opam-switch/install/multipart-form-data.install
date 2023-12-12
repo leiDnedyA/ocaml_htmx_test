@@ -1,0 +1,22 @@
+opam-version: "2.0"
+lib: [
+  "_build/install/default/lib/multipart-form-data/META"
+  "_build/install/default/lib/multipart-form-data/dune-package"
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.a"
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.cma"
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.cmi"
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.cmt"
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.cmti"
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.cmx"
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.cmxa"
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.ml"
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.mli"
+  "_build/install/default/lib/multipart-form-data/opam"
+]
+doc: [
+  "_build/install/default/doc/multipart-form-data/CHANGES.md"
+  "_build/install/default/doc/multipart-form-data/LICENSE.md"
+  "_build/install/default/doc/multipart-form-data/README.md"
+]
+libexec:
+  "_build/install/default/lib/multipart-form-data/multipart_form_data.cmxs"

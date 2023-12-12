@@ -1,0 +1,24 @@
+opam-version: "2.0"
+added: [
+  "doc/bigstringaf" {"D"}
+  "doc/bigstringaf/CHANGES.md" {"F:S653T1702320527.25"}
+  "doc/bigstringaf/LICENSE" {"F:S1467T1702320527.25"}
+  "doc/bigstringaf/README.md" {"F:S1195T1702320527.25"}
+  "lib/bigstringaf" {"D"}
+  "lib/bigstringaf/META" {"F:S216T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.a" {"F:S49530T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.cma" {"F:S59742T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.cmi" {"F:S9721T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.cmt" {"F:S140823T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.cmti" {"F:S57994T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.cmx" {"F:S6570T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.cmxa" {"F:S692T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.cmxs" {"F:S71016T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.ml" {"F:S13195T1702320527.25"}
+  "lib/bigstringaf/bigstringaf.mli" {"F:S11076T1702320527.25"}
+  "lib/bigstringaf/dune-package" {"F:S1125T1702320527.25"}
+  "lib/bigstringaf/libbigstringaf_stubs.a" {"F:S15212T1702320527.25"}
+  "lib/bigstringaf/opam" {"F:S1274T1702320527.25"}
+  "lib/bigstringaf/runtime.js" {"F:S3348T1702320527.25"}
+  "lib/stublibs/dllbigstringaf_stubs.so" {"F:S22192T1702320527.25"}
+]
