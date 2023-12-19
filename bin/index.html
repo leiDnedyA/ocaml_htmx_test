@@ -4,9 +4,13 @@
     <title>HTMX Test</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="css/style.css" rel="stylesheet">
+    <script src="https://unpkg.com/htmx.org@1.9.9"></script>
+
   </head>
   <body>
      <h2>Hello, %s!</h2> 
+     <button hx-get="/clicked" hx-swap="outerHTML">
+        Test out HTMX!
+     </button>
   </body>
 </html>

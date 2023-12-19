@@ -10,5 +10,11 @@ let index name =
 ;;
 
 let () =
-  Dream.run (fun _ ->
-    Dream.html (index name))
+  Dream.run
+    @@ Dream.logger
+    @@ Dream.router [
+      Dream.get "/" (fun _ ->
+        Dream.html (index name));
+      Dream.get "/clicked" (fun _ ->
+        Dream.html "<b>Test text</b")
+    ]
