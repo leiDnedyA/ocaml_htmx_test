@@ -1,9 +1,7 @@
 opam-version: "2.0"
 synopsis: "/home/ayden/Projects/tests/ocaml/ocaml_htmx_test"
 opam-root: "/home/ayden/.opam"
-invariant: [
-  "ocaml" {>= "4.05.0"}
-]
+invariant: ["ocaml"]
 paths {
   
 }

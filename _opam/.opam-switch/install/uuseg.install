@@ -25,7 +25,6 @@ lib: [
   "_build/src/uuseg_string.mli" {"string/uuseg_string.mli"}
   "_build/src/uuseg_word.cmx" {"uuseg_word.cmx"}
 ]
-bin: "_build/test/usegtrip.native" {"usegtrip"}
 doc: [
   "_build/CHANGES.md" {"CHANGES.md"}
   "_build/LICENSE.md" {"LICENSE.md"}
